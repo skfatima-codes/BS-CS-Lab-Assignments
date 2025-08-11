@@ -48,11 +48,12 @@ It also includes:
 - **Getter & Setter** methods for encapsulation.
 - **Cloning** feature using `clone_triangle()`.
 
----
+--
 
 ## 🐢 Lab Task 3 – Turtle Command Pattern Drawing System
 
-### 📌 Overview
+### 
+ Overview
 This project implements a **Pen-based Command Driven Drawing System** using **OOP** and the **Command Pattern** in Python.
 
 It reads a string of commands (e.g., `F+F+F+F`) and executes them one by one to move a virtual turtle.  
