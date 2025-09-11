@@ -11,7 +11,7 @@ class Rn:
     def __str__(self):
         return f"{self.num}/{self.den}"
 
-    # 👉 Find LCM (without abs)
+    #  Find LCM 
     def lcm(self, a, b):
         return (a * b) // math.gcd(a, b)
 
